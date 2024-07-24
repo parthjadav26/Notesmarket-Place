@@ -5,3 +5,4 @@ materials, emphasizing accessibility through efficient search features. The proj
 collaboration with forums and discussion boards while ensuring security and legal 
 compliance. A transparent rating system builds trust among users, creating a reliable 
 marketplace for the exchange of valuable educational resources.
+Author By - Parth Jadav
